@@ -4,7 +4,9 @@
 ### :technologist: &nbsp;About Me
 
 - 🔭 Software Engineer at Bazaarvoice.com
-
+- 📍 Belfast
+- ⛏️ Indie hacker
+- ⛳ Golfer
 
 ### 🛠 &nbsp;Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -25,4 +27,8 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
-⭐️ From [Kyle Higginson](https://github.com/kylehigginson)
+### Current Project
+Currently working on [Consoom](https://www.producthunt.com/posts/consoom), an app to bring newsletters and communities together.
+
+👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)
+Catch me on Twitter - ![Twitter](<img alt="Twitter" src="https://img.shields.io/badge/<kyle__higginson>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>)&nbsp;
