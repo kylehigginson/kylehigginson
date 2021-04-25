@@ -13,11 +13,11 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-Python-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Python-333333?style=flat&logo=redux)&nbsp;
-![Scala](https://img.shields.io/badge/-Python-333333?style=flat&logo=scala)&nbsp;
+![Scala](https://img.shields.io/badge/-scala-333333?style=flat&logo=scala)&nbsp;
 ![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=java)&nbsp;
-![Postgres](https://img.shields.io/badge/-Python-333333?style=flat&logo=postgresql)&nbsp;
+![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)&nbsp;
 ![AWS](https://img.shields.io/badge/-Python-333333?style=flat&logo=amazon-aws)&nbsp;
-![Docker](https://img.shields.io/badge/-Python-333333?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)&nbsp;
 ![Serverless](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-Python-333333?style=flat&logo=serverless)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Python-333333?style=flat&logo=tailwind-css)&nbsp;
