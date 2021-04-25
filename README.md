@@ -9,21 +9,21 @@
 - ⛳ Golfer
 
 ### 🛠 &nbsp;Tech Stack
-![NodeJS](hhttps://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-Python-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Python-333333?style=flat&logo=redux)&nbsp;
-![Scala](https://img.shields.io/badge/-scala-333333?style=flat&logo=scala)&nbsp;
+![Scala](https://img.shields.io/badge/-scala-333333?style=flat&logo=scala)&nbsp;\
 ![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=java)&nbsp;
 ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)&nbsp;
 ![AWS](https://img.shields.io/badge/-Python-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)&nbsp;
-![Serverless](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Serverless](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-Python-333333?style=flat&logo=serverless)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Python-333333?style=flat&logo=tailwind-css)&nbsp;
 ![Git](https://img.shields.io/badge/-Python-333333?style=flat&logo=git)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Python-333333?style=flat&logo=bootstrap)\
-![Visual Studio Code](https://img.shields.io/badge/-Python-333333?style=flat&logo=visual-studio-code)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Python-333333?style=flat&logo=bootstrap)
+![Visual Studio Code](https://img.shields.io/badge/-Python-333333?style=flat&logo=visual-studio-code)&nbsp;\
 ![Vim](https://img.shields.io/badge/-Python-333333?style=flat&logo=vim)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Python-333333?style=flat&logo=kotlin)&nbsp;
 
