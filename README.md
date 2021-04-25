@@ -31,4 +31,4 @@
 Currently working on [Consoom](https://www.producthunt.com/posts/consoom), an app to bring newsletters and communities together.
 
 👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)
-Catch me on Twitter - <img alt="Twitter" src="https://img.shields.io/badge/<kyle__higginson>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;
+🐦 Catch me on [Twitter](https://twitter.com/kyle__higginson)
