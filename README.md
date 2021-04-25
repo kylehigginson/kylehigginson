@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-### :technologist: &nbsp;About Me
+### Hi
 
 - 🔭 Software Engineer at Bazaarvoice
 - 📍 Belfast
