@@ -30,5 +30,8 @@
 ### Current Project
 Currently working on [Consoom](https://www.producthunt.com/posts/consoom), an app to bring newsletters and communities together.
 
-👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)&nbsp;
+### Reach out
 🐦 Catch me on [Twitter](https://twitter.com/kyle__higginson)
+
+
+👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)
