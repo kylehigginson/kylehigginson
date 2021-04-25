@@ -3,7 +3,7 @@
 
 ### :technologist: &nbsp;About Me
 
-- 🔭 Software Engineer at Bazaarvoice.com
+- 🔭 Software Engineer at Bazaarvoice
 - 📍 Belfast
 - ⛏️ Indie hacker
 - ⛳ Golfer
@@ -30,5 +30,5 @@
 ### Current Project
 Currently working on [Consoom](https://www.producthunt.com/posts/consoom), an app to bring newsletters and communities together.
 
-👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)
+👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)&nbsp;
 🐦 Catch me on [Twitter](https://twitter.com/kyle__higginson)
