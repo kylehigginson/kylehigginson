@@ -1,6 +1,6 @@
 ### Hi
 
-- Full Stack Software Engineer at Bazaarvoice
+Full Stack Software Engineer
 
 
 ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
