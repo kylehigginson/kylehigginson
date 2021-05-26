@@ -1,11 +1,8 @@
 ### Hi
 
-- 🔭 Software Engineer at Bazaarvoice
-- 📍 Belfast
-- ⛏️ Indie hacker
-- ⛳ Golfer
+- Full Stack Software Engineer at Bazaarvoice
 
-### 🛠 &nbsp;Tech Stack
+
 ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
