@@ -1,6 +1,6 @@
 Full Stack Software Engineer
 
-![NodeJS](https://sh/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
