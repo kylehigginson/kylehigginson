@@ -1,9 +1,7 @@
-### Hi
-
 Full Stack Software Engineer
 
-
-![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![NodeJS](https://sh/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
@@ -21,11 +19,5 @@ Full Stack Software Engineer
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)&nbsp;
 
-### Current Project
-Currently working on [Consoom](https://www.producthunt.com/posts/consoom), an app to bring newsletters and communities together.
-
 ### Reach out
-🐦 Catch me on [Twitter](https://twitter.com/kyle__higginson)
-
-
-👨‍💻 From [Kyle Higginson](https://github.com/kylehigginson)
+[Twitter](https://twitter.com/kyle__higginson)
